@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Data engineering projects**
 
-- 💬 Ask me about **SQL, data visualisation, Docker container, Metabase, Airbyte, Google sheetse**
+- 💬 Ask me about **SQL, data visualization, Docker container, Metabase, Airbyte, and Google sheets**
 
 - 📫 How to reach me **odurophilip900@gmail.com**
 
